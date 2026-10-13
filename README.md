@@ -4,7 +4,7 @@
 
 The application supports multiple AI providers, allowing users to interact with different AI models through a single chatbot interface.
 
----
+---------------
 
 ## ✨ Features
 
@@ -21,7 +21,7 @@ The application supports multiple AI providers, allowing users to interact with 
 * 📱 Responsive web interface
 * 🚨 Provider-specific error handling
 
----
+--------------------------
 
 ## 🧠 AI Providers
 
